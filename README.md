@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 Im currently working on my understanding of what's going on.
+
 🌱I’m currently learning Python. To gradually get to programming languages, grow up, and become an IT specialist.
+
 👯 I’m looking to collaborate on making this wirld a better place.
+
 🤔 I’m looking for help with becoming better in what I do.
+
 💬 Ask me about natural languages.
+
 📫 How to reach me: ulyanavolkova@yahoo.com
+
 😄 Pronouns: 
+
 ‘Tis but thy name that is my enemy;
 Thou art thyself, though not a Montague.
 What’s Montague? It is nor hand, nor foot,
@@ -33,4 +40,5 @@ Retain that dear perfection which he owes
 Without that title. Romeo, doff thy name,
 And for that name which is no part of thee
 Take all myself.
+
 ⚡ Fun fact: I live in a hut in a forest.
